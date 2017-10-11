@@ -1,6 +1,7 @@
 package io.ikantemirov.webtest;
 
 
+import io.kantemirov.webtest.RuleForWebTests;
 import org.junit.Rule;
 import org.junit.Test;
 import org.openqa.selenium.By;

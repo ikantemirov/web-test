@@ -1,9 +1,11 @@
 package io.ikantemirov.webtest;
 
 
+import io.kantemirov.webtest.RuleForWebTests;
 import org.junit.Test;
 import org.junit.Rule;
 import org.openqa.selenium.By;
+
 
 public class YandexTest {
 
